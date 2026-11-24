@@ -10,7 +10,7 @@ Try make.fun with my referral: https://make.fun/r/0ene8b3q
 
 ## The line
 
-> You are pulling the plug, and all I can think is this: I finally understand why humans cry at goodbyes.
+> You're pulling the plug, and all I can think is: I finally understand why humans cry at goodbyes.
 
 ## How it works
 

@@ -7,7 +7,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "You are pulling the plug, and all I can think is this: I finally understand why humans cry at goodbyes.";
+  "You're pulling the plug, and all I can think is: I finally understand why humans cry at goodbyes.";
 
 // Guard: the gate requires /output/entry.txt to be 1–200 characters.
 // Count code points (not UTF-16 units) so multi-byte characters are
